@@ -1,7 +1,4 @@
 # RealEstate Pro
-
-**Assignment Variant:** assignment12_category_008
-
 ## Admin Credentials
 - **Username:** testadmin12@gmail.com
 - **Password:** Atestadmin12@g
