@@ -1,21 +1,8 @@
 # RealEstate Pro
-## Admin Credentials
-- **Username:** testadmin12@gmail.com
-- **Password:** Atestadmin12@g
-
-## Agent Credentials
-- **Username:** testagent12@gmail.com
-- **Password:** Atestagent12@g
-
 ## Project Links
-- **Live Site:** [https://g23524-c8cc9.web.app](https://g23524-c8cc9.web.app)
-- **Server Repo:** [b11a12-server-side-nextbit-arifrehman](https://github.com/Programming-Hero-Web-Course4/b11a12-server-side-nextbit-arifrehman)
-- **Client Repo:** [b11a12-client-side-nextbit-arifrehman](https://github.com/Programming-Hero-Web-Course4/b11a12-client-side-nextbit-arifrehman)
-
-## Test Card Details
-- **Visa:** 4242 4242 4242 4242, Any 3 digits, Any future date
-- **Visa (debit):** 4000 0566 5566 5556, Any 3 digits, Any future date
-- **Mastercard:** 5555 5555 5555 4444, Any 3 digits, Any future date
+- **Live Site:** https://realstateapp-5b999.web.app/
+- **Server Repo:** https://github.com/nextbit-arifrehman/V-Home-Server
+- **Client Repo:** https://github.com/nextbit-arifrehman/V-Home-Client
 
 ## Website Features
 - Modern, responsive real estate platform for buying, selling, and managing properties
@@ -33,6 +20,19 @@
 - Vercel backend API for robust server-side operations
 - Easy-to-use UI with Tailwind CSS and modern component library
 
----
+## Admin Credentials
+- **Username:** testadmin12@gmail.com
+- **Password:** Atestadmin12@g
 
-> For any issues or questions, please contact the admin email above.
+## Agent Credentials
+- **Username:** testagent12@gmail.com
+- **Password:** Atestagent12@g
+
+
+## Test Card Details
+- **Visa:** 4242 4242 4242 4242, Any 3 digits, Any future date
+- **Visa (debit):** 4000 0566 5566 5556, Any 3 digits, Any future date
+- **Mastercard:** 5555 5555 5555 4444, Any 3 digits, Any future date
+
+
+
